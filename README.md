@@ -27,5 +27,5 @@ This is a responsive project, made to be viewed in larger and small screens.
 
 <br/><br/>
 
-Thank you for visiting and fell free to contact me. :)
+Thank you for visiting and fell free to contact me. :smile:
 
